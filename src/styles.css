@@ -1,6 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.min.css";
 @import "~font-awesome/css/font-awesome.min.css";
+
+html{
+  font-family:'Montserrat', sans-serif;
+  background-color: teal;
+}
+
 div.card-header {
  font-size: large;
 }
