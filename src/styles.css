@@ -5,6 +5,7 @@
 html{
   font-family:'Montserrat', sans-serif;
   background-color: teal;
+  scroll-behavior: smooth;
 }
 
 div.card-header {
